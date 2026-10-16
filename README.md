@@ -1,1 +1,1 @@
-Nuevo sistema operativo basado en ARTLAS OS v7.8.3 pero mas liviano para funcionar en VM
+AR.T.L.A.S. OS Tiny is an operating system based on Debian Linux, conceived from the ground up to integrate Artificial Intelligence as a core component of the computing experience for VM. Developed by AI-TECH.ar, it combines a custom desktop environment with management tools, integration of Large Language Models (LLMs), and direct access to intelligent capabilities within the operating system.
